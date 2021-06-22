@@ -1,0 +1,16 @@
+{
+    "name": "intracomof/any-downloader",
+    "type": "library",
+    "description": "Download videos/images/music from many sources",
+    "keywords": ["downloader","video downloader","music downloader","ig downloader"],
+    "homepage": "https://iwannacode.net",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleksandr Pinchuk",
+            "email": "intracomof@gmail.com",
+            "homepage": "http://iwannacode.met",
+            "role": "Developer"
+        }
+    ],
+}
